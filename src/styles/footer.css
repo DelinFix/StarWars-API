@@ -1,0 +1,9 @@
+.footerStyle{
+    color: white;
+    background-color: #5e74d4;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+    width:100%;
+}

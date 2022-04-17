@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto;
+}
+body{
+    background-image: url("../images/star-wars-bg.jpg");
+    padding-bottom: 60px;
+}
+h1,h2{
+    margin: 10px;
+    color:white;
+}
+div{
+    color:white;
+}
+li{
+    margin: 10px 20px;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+a div{
+    color: #1d7cee;
+}
+.pagination{
+    padding: 7px;
+    margin: 10px;
+    background-color: white;
+    color:black;
+    border: none;
+}
+.backBtn{
+    color: #ff0322;
+}
