@@ -1,3 +1,4 @@
+//Страница персонажа, делается запрос на поиск по имени персонажа и выводим данные из этого запроса
 import React,{useState, useEffect} from "react"
 import {Link, useParams} from "react-router-dom"
 
