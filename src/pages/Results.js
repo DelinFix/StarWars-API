@@ -1,3 +1,4 @@
+//Страница с результатми поиска по персонажам, запрос делается по имени, передаваемому через context, и при каждом переходе на страницу
 import React,{useState, useEffect, useContext} from "react"
 import {Link} from "react-router-dom"
 import {FindPathContext} from './Input'
