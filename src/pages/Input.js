@@ -1,3 +1,4 @@
+//Поля для ввода критериев поиска персонажа
 import React, {useState} from "react"
 import {Link} from "react-router-dom"
 import '../styles/input.css'
