@@ -1,3 +1,4 @@
+//Страница с выводом посещенных персонажей, данные получаем из SessionStorage
 import React,{useState, useEffect} from "react"
 
 export default function VisitedCharacters() {
