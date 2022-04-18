@@ -1,3 +1,4 @@
+//Страница всех персонажей, выводится через запрос, подаваемый при загрузке и при переходе на новую страницу
 import React,{useState, useEffect} from "react"
 import {Link} from "react-router-dom"
 
